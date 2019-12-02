@@ -1,0 +1,38 @@
+>: Are we ready to launch?
+>: No, you need to turn on the generator
+>: Ok, I'll go check on the rest of the crew while I'm there
+>: Come back here if you want to launch off
+>You get up out of your chair and walk toward the bridge door
+>It seems that the door needs a level 1 keycard to acsess
+>(Hint: type in 'keycard 1' to use the key card in your inventory)
+>You use the keycard on the door.
+>It opens and you find yourself in the main hall.
+>There are 6 rooms:
+>Generator, Airlock, Quarters, Store, Office, Bridge
+>You walk into the Airlock there is a crate at the
+>corner of the room and a terminal to open the airlock
+>You enter into the generator room and see a fuse box
+>that is missing 2 fuses and a power cell charger on the wall
+>You find yourself in the living quarters,
+>it seems your marksman is sleeping in his bed
+>There are 6 lockers in the room but only 2 of them you can acsess:
+>locker 1 and locker 2
+>You walk into the storeroom you see a couple boxes
+>and a fuse on the floor
+>You enter into the Office, you see a desk for skill
+>upgrades and your Mechanic and Programmer sitting there, conversing
+>: Hey man
+>: How can we make your aquaintance my friend?
+>: I just need to take a look for some fuses
+>: I think I might've saw some in the storeroom
+>: Thanks, >You enter into the bridge, your pilot is here
+>there is blueprint on the wall next to you
+>: Are you sure all the rooms are ready for launch?
+>: Launching...
+>: 3...
+>: 2...
+>: 1...
+>: 0...
+>*
+>*
+>*

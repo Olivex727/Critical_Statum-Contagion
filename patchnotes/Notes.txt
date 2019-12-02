@@ -1,0 +1,106 @@
+Game Notes:
+name - Critical statum: Contagion
+(statum latin for situation)
+(contagion synonym for infection)
+
+Possible sequel (Y11 CYOA)
+Critical statum: Synthesis
+
+Both games will deal with the concept of being and humans. While No. 1 evaluates the ideologies that surround personhood, No. 2 will evaluate the differences between the effect of the two extremes in action: humanisim vs transhumanisim
+
+CS1: set in 2287
+CS2: set in 2349
+
+Game Message:
+Explores the concept of what is a being and/or a person and if its purpose is a reason to shut it down. Does this by using aliens, unintellegent life forms and when the SAC-26 virus is described as 'living'
+
+Ideologies:
+Everything that lives is a person
+- Followed by the pilot and leader
+- Argues that any level of conscious is enough for being
+
+Personhood requires sentience
+- Followed by Marksman and mechanic
+- Argues that intellegent life can only qualify for being
+
+Personhood requires sentience and purpose
+- Followed by programmer
+- Argues that a person needs a purpose or the will to live
+
+Personhood is strictly human
+- Followed by Dr. Xenith
+- Argues in favour of the controversial 'Alien Eugenics'
+- Explores the negatives as a result of alien contact
+
+Game Setting:
+- 23rd Century CE
+- Sci-Fi Horror
+
+Game Plot:
+Tutorial - introduces player to mechanics, starts with player launching ship
+Act 1 - Crew investigates the possible origins of SAC-26
+Act 2 - Crew at loc of SAC-26 lab and finds villan
+Act 3 - Crew gets ambused, decides to complete endings
+
+Game Endings:
+Bad - Crew kills Villan and SAC-26 takes over
+Good - Crew captures vil and SAC-26 eradicated
+Infection - Crew infected by sentient SAC-26
+SAC - Crew eradicates SAC-26 but vil escapes
+
+Chart-
+
+               Crew Travels to      Crew Travels to
+               Spiron City          Planet Ventrin-426B
+Crew fights
+Dr. Xenith/       BAD ENDING          INFECTION ENDING
+Fights the
+SAC Boss
+
+Crew sneaks
+around Xenith/    GOOD ENDING            SAC ENDING
+Sneaks past SAC
+Boss
+
+Main Game locations:
+Only Tutorial:
+Ceaser's place, New Vegas (Scientific area, remains of paradise)
+
+Added in ACT 1:
+Wolosyd, New Victoria (what used to be royal nat. park)
+Tariskor, Tarmea system (Lava planet, Coloran colony)
+Musk, Mars (City named after Elon musk, first on mars)
+
+Added ACT 2:
+Planet Ventrin-426B, Ventrin system (Abandoned planet, Origin of SAC-26)
+
+Only ACT 3:
+Planet Ventrin-426B, Ventrin system (Abandoned planet, Origin of SAC-26)
+Spiron City, Spiratron (Home planet of the Spirons)
+Berth Space Elevator (Leads to the home planet of the Colorans)
+
+LIBRARY TEXTS:
+Wolosyd Library:
+- Oceana
+- WW3
+- The great war
+
+Tariskor Library:
+- Coloran Hep-Z epidemic
+- Colorans and Spirons fact book
+- World after WW4
+
+Musk Library (Museum):
+- Energy
+- Space travel
+- Dark age solar system
+
+Lab library:
+- WW4
+- Soviets
+- Emergence period
+
+Spiron city library:
+- The 2nd Great Depression
+- Technologic Revolution
+- The fall into the modern dark ages

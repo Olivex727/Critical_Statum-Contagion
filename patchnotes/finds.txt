@@ -1,0 +1,160 @@
+End of TUTORIAL
+- 40 of each
+- 20 of chosen rescourse
+- 200 credits
+- 6 sp
+
+1st Area WOLOSYD
+- 25 cells
+- 12 credits
+- 30 ammo
+- 2 sp
+RB1
+>Must need (30 ammo, 3) to go to central
+
+2nd Area WOLOSYD:
+- 4 sp
+- 1 lvl mechanic
+- 1 lvl leader
+- inf gas/tech (8/10 credits)
+- 30 material
+- 5 cells
+- 38 credits
+
+RB4:
+>Must of helped car mechanic in central
+
+4th Area WOLOSYD:
+- 1 lvl marksman
+- 5 gas
+- 5 tech
+- 20 credits
+
+RB5:
+>Need picaxe
+
+Tenex Area WOLOSYD:
+- 10 tech
+- 2 skillpts
+- 20 material
+
+RB2:
+>Must need (20 tech, 2) and border wall keycard to go to port hacking
+
+3rd area WOLOSYD:
+- 25 tech
+- 25 credits
+- inf cells
+- 25 gas
+- 25 material
+- 25 ammo
+
+1st area TARISKOR
+- 20 material
+- 20 ammo
+- 30 tech
+- 3 skillpts
+
+RB1:
+>Must need (30 material, 3) to turn on generator and must need (50 tech, 5) to get to the storage/metal factory
+
+2nd area TARISKOR
+- 30 cells
+- 21 credits
+- 3 skilpts
+
+RB2:
+>Must need (40 material, 4) to fix boat and rextion keycard to enter drop zone
+
+3rd area TARISKOR
+- 14 credits
+- 1 skillpts
+- 10 cells
+
+RB3:
+>Must need (20 ammo, 2) to get key for storage file
+
+MUSK RB:
+>Must need (40 cells, 4)
+
+1st area MUSK
+- 61 credits (inf)
+- 11 skillpts (inf)
+- 46 gas
+- inf material
+- 10 tech
+
+RB1:
+>Must need (60 gas, 6) and have a radio in invent to get to wells airport
+
+2nd area MUSK
+- 25 cells
+- 3 skillpts
+
+RB2:
+>Must need (60 material, 6) and have a radio in invent to get to wells airport
+
+3rd area MUSK
+- 40 tech
+- 6 skillpts
+
+RB3:
+>Must need (60 tech, 6) to get into the rover
+
+1st area LAB1
+- 10 gas
+- 6 credits
+- 20 material
+- 3 skillpts
+- 20 tech
+- 2 lvl ups (20 tech, 2)
+
+RB1:
+>Must need (80 tech, 8) to enter the lab
+
+2nd area LAB1
+- 20 Material (Amount not spec)
+- 5 skillpts
+
+3rd area LAB1
+- 30 cells
+- 3 skillpts
+
+1st area LAB2
+- 30 tech
+- 2 skillpts
+
+RB1:
+>Must need (110 tech, 11) to get to lab 6 test chamber
+
+1st area SPIRON CITY
+- 20 material
+
+RB1:
+>Must need (110 material, 11) to get to the city entrance
+
+2nd area SPIRON CITY
+- 15 material
+- 30 gas
+- 8 skillpts
+- 30 ammo
+- 30 cells
+- 35 credits
+
+RB2:
+>Must need (110 gas, 11) to get to the zoo
+
+3rd area SPIRON CITY
+- 3 skillpts
+
+RB3:
+>Must need (110 cells, 11) to get to larina
+
+3rd area SPIRON CITY
+- 3 skillpts
+
+RB4:
+>Must need (110 ammo, 11) to get to the yard and have visted all other locations
+
+4th area SPIRON CITY
+- inf attack up to 25

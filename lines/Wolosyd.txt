@@ -1,0 +1,135 @@
+>: Alright, we need to find what out the heck is going on. The team at HCUN has pinpointed three locations,
+>: There are 3 locations that it says here:
+>Wolosyd, New Victoria
+>Tariskor, Tarmea system
+>Musk, Mars
+>WARNING: Once you travel to a location, you will stay
+>there until you get to the Redevenous Location
+>You are in Sutherland park, a nature reserve
+>holding the remains of a suburb called 'sutherland'
+>It is an open, grassy feild with centuries old buildings
+>surrounding you with a patch of shrubs near
+>There are two roads, South (to Otford) and North to a ruins
+>You have travelled south to otford, there is a
+>gang of criminals blocking the entrance to central
+>there is a path going west to Heathcote and one to
+>Sutherland park. There is a building nearby with a man
+>standing beside it.
+>This is central wolosyd, developed in 2144 between the
+>fallout zones of wolongong, sydney and the highlands
+>There is a road leading north to otford and south to
+>kembla-kiama. Your crew is standing in front of tenex HQ,
+>a IT/science company. Near you is car mechanic, library and gas station.
+>You are now in heathcote, there is a building and a
+>weapons crate. There are 2 roads, one goes to Otford
+>and one goes to Campbeltown.
+>You are in Campbeltown - or what remains of it, even 
+>though it is far away from any blast the loss of the 
+>blue mountains led to the complete degredation of the 
+>area. There is a road back to heathcote and one covered 
+>in heavy stones leading to picton. 
+>There is a man who seems to hold a box and an 
+>amalgamation of broken robot parts on the ground.
+>: Jeez, looks like the bandits got him
+>: Oh, don't worry, this is an old one from 2186 - this one doesn't have any sentience at all
+>: And you think that's still ok!? He used to be alive!
+>: Well, he wasn't really doing anything much, probably to help clear out topsoil
+>: Oh well, he's dead anyway - can we get back to our mission?
+>The ruins are surrounding the crew, destroyed buildings 
+>and broken roads carry on forever, there is a border 
+>fence erected in front of you that leads to port hacking 
+>and a road back to sutherland park.
+>You have reached Kembla-kiama, the region of what used 
+>to be steelworks has now turned into wolosyd's main 
+>harbour outlet after the radiation subsided. There is a 
+>road up to central and one to nowra. There is a beach and a warehouse
+>The crew is now in Nowra, you are atop a hill, there is 
+>not alot except a cave down south and a clearing near you.
+>There is a path leading up to kembla-kiama and a 
+>police-barricaded path leading to bowral
+>You are now in bowral, where you are standing, there is 
+>a cricket oval, general store and two roads leading 
+>north (to a mountain range) and east (to nowra).
+>You are in a mountain range, what used to be covered in
+>eucaliptus trees is gone, they went extinct 150 years 
+>ago, only now there is a regrowth of natural land.
+>There is a road down to bowral and one up to the mining town of picton. There is a river and a cavern near you.
+>A large bear exits the cavern as you crew begins to freak out
+>: KILL IT!!
+>: Calm down!
+>Your marksman shoots the bear
+>: I feel kind of sorry for the bear
+>: Why?
+>: It had a life, y'know, it probably just needed to defend itself
+>: But they don't even have sentience
+>: Yea, but maybe that doesn't matter
+>Your crew is now in the mining town of picton, there is 
+>a mineshaft and a mineral deposit near you. A road 
+>leads south to a mountain range and one north to campbeltown.
+>Your crew walks into the tenex HQ building, it is a 
+>grand entrance with the first robot erected as a statue 
+>in the middle, the name 'sophia' has been spray painted 
+>with the words 'a fake person'
+>Leader: Bloody bandits, don't they realise the fallout was more than a century ago?
+>Programmer: I mean the words could be true,
+>Pilot: How?
+>Programmer: The first AI didn't really have a consiousness at all
+>Marksman: But we still need to treat her as a person
+>In the main hall, there is a help desk and a door to the inner building
+>You are in the offices section of the tenex building, 
+>there are 3 doors, to the head office, to the storage and to the Lobby
+>there is a desk full of stuff near you
+>You are in the storage secion of the tenex building,
+>there are 3 doors, to the head office, to the storage and to the Lobby
+>there is a terminex quantum computer and a storage crate
+>You enter into the head office, the CEO (Malcom) geets you,
+>Malcom: Hello, there, I know what you're looking for
+>and I have it.
+>Malcom: The information on the cure for SAC is in the security room over there
+>Malcom: But you need to solve this riddle first:
+>I am someone who you probably have met, someone who you
+>have seen lying in the earth. But he is not a part of 
+>it. some say i'm real, some say i'm fake.
+>Who am I?
+>You are in the security room, there are an array of monitors and a filing cabinet. 
+>There is also a securtiry bay in the room next to you
+>You are in the security bay, it is a dark room with a border fence keycard.
+>: Looks like we've found something
+>: What is it?
+>: The man who created SAC was a former employee of tenex and seemed to be pretty intelectual
+>: Well that makes sense, why would it disproportionately affect non-humans?
+>: Interesting...
+>You are now in Port Hacking, the southernmost point of 
+>what was used to be called 'Sydney'. There is a warm
+>breeze as you walk into an area of overgrown bushes. On 
+>one side you see a cliff with the skyline of wolosyd in 
+>view and on the other you see an old airport. With a 
+>road leading to a ruins and one leading to old bay
+>At the cliffside you see the skyline of wolosyd in the 
+>distance, buildings soaring well over 1km tall
+>On the ground you see a broken mobile from the 2030s, the iPhone 21
+>You are now in old bay, it used to be double but then 
+>the bay degraded into two. There is a road to port hacking, parramatta and avalon.
+>There is a broken arch bridge, a golf course and a still operational school.
+>interestingly enough, there are still people living here.
+>You walk onto the bridge, it was almost completely 
+>destroyed in the war but has been rebuilt by the people 
+>who wanted to restore the city of sydney, on the edge, 
+>you see the run down opera house and the remaining half 
+>of a tall tower in the city.
+>You walk into the school's largest building, the walls 
+>are covered in paintings of past principals dating back 
+>to its founding in 1893. The principal greets you and 
+>tells you of 3 locations in the school: A dining hall, 
+>The main boarding house and an old clasroom for IT students
+>You walk into parramatta, There is a river, a block of 
+>apartments and a broken down car in the middle of the road.
+>The newly built highway leads west to penrith and east to old bay
+>You are now in Avalon, a remote beach location that is 
+>now apart of the Sydney National park (like the rest of the city)
+>There is a road south to old bay and one west to 
+>richmond. There is a beach and man near you.
+>You are now in richmond, there is a local city called blacktown and a box on the ground.
+>There is a road going to penrith and one to avalon
+>Your crew is now in penrith, there is a regatta center 
+>and a road to richmond and one to parramatta

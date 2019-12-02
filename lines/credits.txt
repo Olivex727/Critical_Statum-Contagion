@@ -1,0 +1,12 @@
+>*
+>*
+>*
+>CRITICAL STATUM: CONTAGIUM
+>Developer: Oliver Walters
+>Beta Testers: Tom Nesbitt, Tom Browning, Felix Morrison,
+>Nathan Walters, Peter Howse, Peirce Wong
+>Andy Pearson, Kent Leong, Lachlan Stephens, Ethan Huang
+>Design: Oliver Walters
+>A game made for a Year 10 IST project. Made in 10 weeks.
+>Thanks for playing this game!
+>

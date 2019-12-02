@@ -1,0 +1,23 @@
+>: So, we know the location of the cure. It's in the vault.
+>: What else is there? How can we enter the vault and what about the creator?
+>: We'll have to find out. I don't know how we'll find the cure.
+>: Uh, the radar tells us that there's a large enemy presence here
+>: Shoot! We're being jumped!
+>: Not quite yet, but yes.
+>You look up into space, a large ship arrives on the space elevator platform.
+>: Jeez! that was intense.
+>: Yeah, good thing we survived that.
+>: Anyway, the ambushers left someting behind.
+>: It says here that the creator is hiding somewhere in Spiron city.
+>: If we find him, we might find the cure and arrest him!
+>: Hold on, there is a cure. One is in posession of the creator and the other is in the lab
+>: So we have a choice?
+>: Exactly, and I say we head straight to the lab to kill this thing for good
+>: Hey! It's alive! We even know that it's sentient!
+>: But it's purpose still is to kill
+>: Reguardless of that, we need to head over now. Make the choice cap'n.
+>: There are 2 locations:
+>The Lab, Ventrin-426b
+>Spiron city, Spira
+>WARNING: Once you travel to Spiron city or the lab,
+>you will stay there until the ending

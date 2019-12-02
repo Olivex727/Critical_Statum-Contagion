@@ -1,0 +1,61 @@
+COMPLETED:
+V0.1 (29/7):
+- Added Tutorial section into game
+- Added introduction
+V0.2 (4/8):
+- Added Act 1 Wolosyd Areas (Area 1, 2, 4)
+V0.3 (5/8):
+- Completed Wolosyd location
+V0.3.5 (8/8):
+- Added title menu
+- Inserted minigames for later installation
+V0.3.9 (9/8)
+- Incorporate Minigames (to all current areas)
+- Added gps (Faulty)
+V0.4 (9/8):
+- Fixed gps
+- Organised menu
+- Added version on title
+V0.5 (9/8):
+- Added Tariskor location
+- Added ability to save ingame
+V0.5.1 (10/8):
+- fixed difficuly of fight scenes
+V0.6 (11/8):
+- Add Musk location
+V0.6.5 (11/8):
+- Prepare game for Act 2
+V0.7 (14/8):
+- Added Act 2
+- Added Ventrin-426b location
+- Added variable saving system
+V0.8 (15/8):
+- Prepare game for Act 3
+- Add the opening area for Act 3 (Berth Space elevator)
+V0.11 (16/8):
+- Added Endings (2/4)
+- Added Lab location
+- Added Boss fights
+V1.0 (22/8):
+- Added All Endings
+- Added Spiron city location
+- completed full game
+V1.1 (30/8):
+- Fixed repeating end loops and save issues
+- Got rid of location softlocking
+V1.2 (31/8):
+- Fixed bugs in the Tutorial, Wolosyd and Tariskor areas
+- Added cheats as an endgame unlockable
+V1.3 (4/9):
+- Fixed bugs in all areas
+V1.4 (6/9):
+- Added a command menu
+- Added a help option
+- Fixed bugs from 1.3
+V1.5 (13/9):
+- Fixed location bugs
+- Tested game
+V1.6 (24/9):
+- Fix any existing bugs from 1.4/1.5
+- Prepare game for assesment
+- Sent game for assesment task

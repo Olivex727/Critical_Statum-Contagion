@@ -1,0 +1,68 @@
+>You are standing at the entrance of the town hall of musk,
+>the sky is slightly red from a previous dust storm as you feel lighter from
+>Mars's low gravity. There is the parlament of the martian federation,
+>a office block next to the building and the Martian Intellegence Agency (MIA)
+>A road leads away to the suburb of asimov.
+>TITLE: Formally recognised nations
+>GOV. BODY: The Martian Republic
+>APPROVED BY: The New United Nations general assembly
+>We the people of the Maritan Republic recognise each 
+>of these human governments' claims to their sovereign territory.
+>EARTHLY NATIONS:
+>The Republic of Oceana
+>The Neo-Soviet Union
+>United states of Africa
+>The Arab Republic
+>The Sino federation
+>NON-EARTHLY NATIONS:
+>The Martian federation
+>The Union of inner planets
+>Republic of Titan
+>The Union of moons
+>The Kuiper Federation
+>The Coloran-human federation
+>The Outer Empire
+>You are now in Asimov, a industrial district of musk. 
+>There is a museum, a mint and a space port
+>There also is a road to town hall, south musk and the city limit (which is blocked off)
+>You are now in south musk, a secttion of the city built for
+>science, education and a resedential section of the city
+>There is a greenhouse, a university and a neighbourhood 
+>with a road to asimov and to wells airport that is closed due to air traffic
+>You are now at the wells airport, the largest airport outside of Earth.
+>There is a immigration counter, a box and a storeroom with a 
+>road either to south musk or city limit
+>Guard: What do you know about him?
+>: We know where he is
+>Guard: Well, take me to him!
+>The guard has entered your party,
+>he will stay with you until you find sabar or leave musk.
+>you can access all doors that require keycard 2
+>The door opens, it reveals a man who is rapped up in duct tape.
+>Sabar: MMM!
+>Guard: There you are! I've been looking for you
+>: What are you going to do with him?
+>Guard: The Feds wanted to deport him, so I got put with the dirty work
+>Guard: By the way, have this
+>MIA keycard and keycard 2 added to invent
+>You have now reached the city limit, the large wall and glass dome covering the city
+>and protecting it from the CO2 atmosphere.
+>There is a road to Wells airport, a one-way road to asimov
+>with the entrance to the cerberus plateau being blocked due to an airlock error
+>There is a guard tower, a hangar and the airlock that needs fixing.
+>You are now in cerberus plateau, the desert region outside of musk.
+>It's completely barren, with a few patches of algae and brine water, it's mostly desert
+>There is a moss patch, a mountain and a abandoned rover.
+>Over in the distance you see a landing site and behind you is the city limit.
+>You are now at the landing site of the first martian mission in 2027.
+>There is a landing craft and a settlement with cerberus plains behind you.
+>the lobby of MIA is massive with a small office room by the side
+>you enter into the room and there are some files on SAC
+>: Look at this! There are 2 cures to SAC-26, one is hidden in the lab and the other
+>: is in the possetion of it's creator, an ex-Doctor
+>: Odd, so it's now official, we need to head to planet Ventrin-426B
+>: Let's go then!
+>Guard 1 & 4: FREEZE!
+>Guard 2: You are under arrest for infiltrating a restricted zone
+>Guard 3: Under order of UN law, you will be tried for tresspassing
+>: C'mon! let's get outta here!

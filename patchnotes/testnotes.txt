@@ -1,0 +1,19 @@
+Test 1 28/7/18:
+Generator: change command 'fuse' to 'fuse box'
+Store: boxes stuck in cache
+Bench: 
+- Maybe show invent by command or after every purchase
+- levels do not add up once bought
+ENDING:
+- Ending in perpetual loop (tutorial.txt loops 23:39)
+GENERAL:
+- No tech cache in tutorial stage
+
+Test 2 29/7/18:
+- In working order
+
+Test 3 & 4 5/8/18:
+- Tutorial not connecting, var0 must be problem
+- Test 4 in working order, no Games/funcs for Gps (will be added in later development)
+
+ADD INTRO SKIPPING OR TIME STOPS

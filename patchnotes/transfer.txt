@@ -1,0 +1,17 @@
+New variables:
+var10
+prevgacloc
+
+TXT files:
+A4 (Lab 1)
+CT (Corrupt text)
+
+other code:
+change name of planet ventrin in tut_loc
+change prevgacloc after gac loc loop
+add corrupt combat function
+
+General checklist:
+Update finds
+Save Lab1.py
+Add 4 gac_loc lists/dics

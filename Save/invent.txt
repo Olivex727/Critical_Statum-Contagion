@@ -1,0 +1,4 @@
+keycard 1
+fist
+fuse 1
+fuse 2
